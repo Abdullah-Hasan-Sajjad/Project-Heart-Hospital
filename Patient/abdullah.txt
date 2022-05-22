@@ -1,0 +1,8 @@
+Name:  Abdullah Hasan Sajjad Rafi
+ID:  1
+Age:  21
+Sex:  male
+Address:  baily road,Ramna,Dhaka.
+Phone number:  12345678910
+Primary care physician:  aaa
+Case:  aaaa

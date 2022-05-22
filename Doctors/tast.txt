@@ -1,0 +1,7 @@
+Name:  test doctor
+ID:  2
+Doctor type:  Specialist
+Doctor job type:  Pediatric Cardiologist
+Rank:  Professor
+Office week:  Friday Saturday Sunday Monday Tuesday
+Office hour:  (9:00am-5:00pm)

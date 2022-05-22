@@ -1,0 +1,7 @@
+Name:  Rafi
+ID:  1
+Doctor type:  Surgeon
+Doctor job type:  Vascular Surgeon
+Rank:  Associate Professor
+Office week:  Friday Saturday Sunday Monday Tuesday
+Office hour:  (9:00am-5:00pm)
